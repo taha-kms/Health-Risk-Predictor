@@ -69,7 +69,7 @@ The dataset includes patient demographic data, lab measurements, comorbidities, 
 ## Model Performance
 | Metric      | Average (Cross-Validation) |
 |-------------|-----------------------------|
-| Accuracy    | ~0.80                      |
+| Accuracy    | ~0.79                      |
 | AUC         | ~0.84                      |
 | F1-Score    | ~0.85                      |
 
